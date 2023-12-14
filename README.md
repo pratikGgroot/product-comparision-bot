@@ -1,1 +1,2 @@
 # product-comparision-bot
+The "Product Comparison Bot" project developed on the UiPath platform is an intelligent automation solution designed to streamline and enhance the process of comparing various products. Leveraging the power of UiPath's automation capabilities, this bot aims to automate the tedious and time-consuming task of product comparison by extracting relevant information from multiple sources.
